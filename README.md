@@ -1,1 +1,4 @@
-一个使用express作为服务器的精简版vue简易框架，持续开发ing 可以最精简的使用vue功能
+一个使用express作为服务器的精简版vue简易框架
+使用webpack4 + vue2搭建 + express服务器使用
+目前使用的是elementUI作为组件
+可以提供最简单的快速vue项目搭建 并且去除了webpack-dev-server可以供大家使用
